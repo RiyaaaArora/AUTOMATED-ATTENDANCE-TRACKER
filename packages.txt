@@ -1,5 +1,5 @@
 cmake
-g++
 build-essential
 libgl1
-
+libglib2.0-0
+pkg-config
